@@ -15,5 +15,5 @@ appraise '4.0' do
 end
 
 appraise 'edge' do
-  gem 'rails', git: 'git://github.com/rails/rails.git'
+  gem 'rails', :git => 'git://github.com/rails/rails.git'
 end
