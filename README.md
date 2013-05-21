@@ -1,6 +1,6 @@
 # PlainAuth
 
-[![Build Status](https://travis-ci.org/[jeffshantz]/[plainauth].png)](https://travis-ci.org/[jeffshantz]/[plainauth])
+[![Build Status](https://travis-ci.org/jeffshantz/plainauth.png?branch=master)](https://travis-ci.org/jeffshantz/plainauth)
 
 PlainAuth is a simple, drop-in replacement for `ActiveModel::SecurePassword`.
 It fixes several validation bugs that currently exist with `has_secure_password`,
