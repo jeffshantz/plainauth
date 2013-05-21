@@ -1,3 +1,3 @@
-module Plainauth
-  VERSION = "0.0.1"
+module PlainAuth
+  VERSION = "0.0.2"
 end
